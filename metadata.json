@@ -1,0 +1,8 @@
+{
+  "name": "HealthPulse - Doctor Booking App",
+  "description": "A premium, high-fidelity healthcare application for booking medical appointments with a modern, airy teal aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
